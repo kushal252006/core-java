@@ -1,0 +1,33 @@
+1.what is jAVA?
+java is a heigh level programming language and object oriented programminglanguage,java is plot form independent program,it has
+jvm,jdk,jre,compiler,java libraies to perform task.
+
+2.explain how java is exicuted?
+in java compiler covert source code(user code) to byte code (javac) and then java will convert
+ the byte code to machin level language which the mechine is understandabel(0s and 1s)
+ 
+3 .what is data type and explain types;
+it is a type of data which the variable can hold,or it tells what data it is ,
+there are two types primitive and non primitive,
+in primitive there are 8 types
+that stores single value  
+they are=
+int=that stores integer value like number based on int range
+float=it is has a decimal vale like 9.0f,4.6f etc
+double=that has the decimal value like 43.8,674.45,based on the range
+long =it has the large amount of data like phone number,code,etc ex=1234466876989l;
+short,byte=that has number based on range
+char=it has a single alphabets like 'D','a'
+boolean=it has only two values like true or false
+non primitive-it is has to store a multiple values,using data types like string
+
+what is variable?explain the types of variable?
+variable is a container for storing values in memory.
+a variable name is start with character or underscore ,
+syntax for declaring and init variable=
+data type variablename=values;
+there are 4 types
+local variable =it is called inside the method scope only,variables declare with in a method scope;
+instance variable =its declare and call out side the method using object reference;
+satatic =it has a comon value ,using key word static to declare variable and it is call using class name;
+parameter=it is declare within the method parenthisis like  method name(int age);
